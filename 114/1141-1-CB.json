@@ -8306,7 +8306,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財稅二甲",
-            "scr_period": "(三)02-04 商201 李仁佑",
+            "scr_period": "(三)02-04 商201",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8316,7 +8316,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李仁佑"
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "0449",
@@ -9406,7 +9406,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "統計一乙",
-            "scr_period": "(一)09     商405",
+            "scr_period": "(一)09     商405 李仁佑",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9416,7 +9416,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李仁佑"
         },
         {
             "scr_selcode": "0545",
@@ -9450,7 +9450,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "統計一乙",
-            "scr_period": "(二)02-04 商405",
+            "scr_period": "(二)02-04 商405 李仁佑",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9460,7 +9460,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李仁佑"
         },
         {
             "scr_selcode": "0547",
@@ -10374,7 +10374,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "統計三乙",
-            "scr_period": "(四)06-08 商301(電腦實習室) 巫亮宏",
+            "scr_period": "(四)06-08 商301(電腦實習室)",
             "scr_precnt": 68.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10384,7 +10384,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "巫亮宏"
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "0583",
