@@ -16342,7 +16342,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國企四學位學程",
-            "scr_period": "(六)00     待排 黃瓊如,Fliegel Michal",
+            "scr_period": "(六)00     未排教室 黃瓊如,Fliegel Michal,江宜芳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 8.0,
             "scr_remarks": "For BIBA students only",
@@ -16352,7 +16352,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "黃瓊如,Fliegel Michal",
+            "scr_teacher": "黃瓊如,Fliegel Michal,江宜芳",
             "scr_date": "全學期"
         }
     ]
