@@ -1783,7 +1783,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四甲",
-            "scr_period": "(五)11-12 忠210 陳松堂",
+            "scr_period": "(五)11-12 忠310 陳松堂",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1990,7 +1990,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四乙",
-            "scr_period": "(五)11-12 忠210 陳松堂",
+            "scr_period": "(五)11-12 忠310 陳松堂",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6130,7 +6130,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資三甲",
-            "scr_period": "(二)06-08 忠611(電腦實習室)",
+            "scr_period": "(二)06-08 忠611(電腦實習室) 白弘杰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "白弘杰老師",
@@ -6140,7 +6140,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "白弘杰",
             "scr_date": "全學期"
         },
         {
@@ -6268,7 +6268,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資三乙",
-            "scr_period": "(二)06-08 忠611(電腦實習室)",
+            "scr_period": "(二)06-08 忠611(電腦實習室) 白弘杰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "白弘杰老師",
@@ -6278,7 +6278,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "白弘杰",
             "scr_date": "全學期"
         },
         {
