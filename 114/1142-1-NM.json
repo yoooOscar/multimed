@@ -403,7 +403,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大數據一(SJSU)",
-            "scr_period": "(一)03-04 V015教室(共善樓) (一)09-10 V015教室(共善樓)",
+            "scr_period": "(一)03-04 V015教室(共善樓) (一)09-10 V015教室(共善樓) 安大衛",
             "scr_precnt": 30.0,
             "scr_acptcnt": 22.0,
             "scr_remarks": " ",
@@ -413,7 +413,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " ",
+            "scr_teacher": "安大衛",
             "scr_date": "全學期"
         },
         {
@@ -940,7 +940,7 @@
             "cls_id": "NM06120",
             "sub_id": "66350",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "Y",
             "scr_teacher": "邱創乾",
             "scr_date": "2026/02/24 ~ 2026/06/02"
@@ -1346,7 +1346,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資工二(SFSU)",
-            "scr_period": "(二)06-09 科航504",
+            "scr_period": "(二)06-09 科航504 藍濤",
             "scr_precnt": 60.0,
             "scr_acptcnt": 18.0,
             "scr_remarks": "各節次結束時間:(二)9節4月21日止；(二)6-8節\t6月2日止",
@@ -1356,7 +1356,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " ",
+            "scr_teacher": "藍濤",
             "scr_date": "2026/02/24 ~ 2026/06/02"
         },
         {
@@ -1691,7 +1691,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學二(UQ)",
-            "scr_period": "(五)01-04 V014教室(共善樓)",
+            "scr_period": "(五)01-04 V014教室(共善樓) 司馬添",
             "scr_precnt": 30.0,
             "scr_acptcnt": 2.0,
             "scr_remarks": "各節次結束時間:(五)1節4月24日止；(五)2-4節6月5日止",
@@ -1701,7 +1701,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " ",
+            "scr_teacher": "司馬添",
             "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
@@ -1967,7 +1967,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資工二(Monash)",
-            "scr_period": "(二)06-09 科航504",
+            "scr_period": "(二)06-09 科航504 藍濤",
             "scr_precnt": 60.0,
             "scr_acptcnt": 18.0,
             "scr_remarks": "各節次結束時間:(二)9節4月21日止；(二)6-8節\t6月2日止",
@@ -1977,7 +1977,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " ",
+            "scr_teacher": "藍濤",
             "scr_date": "2026/02/24 ~ 2026/06/02"
         },
         {
