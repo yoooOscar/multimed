@@ -7740,7 +7740,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "電機二甲",
-            "scr_period": "(三)03     待排 (五)01-02 待排 田春林",
+            "scr_period": "(三)03     待排 (五)01-02 待排 王志洋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7750,7 +7750,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "田春林",
+            "scr_teacher": "王志洋",
             "scr_date": "全學期"
         },
         {
@@ -7901,7 +7901,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "電機二乙",
-            "scr_period": "(一)04     資電306 (五)01-02 資電306 王志洋",
+            "scr_period": "(一)04     資電306 (五)01-02 資電306 田春林",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7911,7 +7911,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王志洋",
+            "scr_teacher": "田春林",
             "scr_date": "全學期"
         },
         {
