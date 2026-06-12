@@ -955,7 +955,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一丙",
-            "scr_period": "(四)08-09 資電B03 林煜宸",
+            "scr_period": "(四)08-09 資電102 林煜宸",
             "scr_precnt": 60.0,
             "scr_acptcnt": 57.0,
             "scr_remarks": " ",
@@ -8453,7 +8453,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機二甲",
-            "scr_period": "(一)06-07 資電410 (四)08     資電B04 王志洋",
+            "scr_period": "(一)06-07 資電410 (四)08     商107 王志洋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 60.0,
             "scr_remarks": " ",
@@ -10120,7 +10120,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉文豐",
-            "scr_date": "全學期"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "1615",
@@ -10350,7 +10350,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉文豐",
-            "scr_date": "全學期"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "1615",
@@ -10730,7 +10730,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控一甲",
-            "scr_period": "(二)01-02 科航205 (五)03     資電B04 林南州",
+            "scr_period": "(二)01-02 科航205 (五)03     商107 林南州",
             "scr_precnt": 78.0,
             "scr_acptcnt": 77.0,
             "scr_remarks": " ",
@@ -14030,7 +14030,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "王俊傑",
-            "scr_date": "全學期"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "2068",
@@ -14168,7 +14168,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "王俊傑",
-            "scr_date": "全學期"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "2068",
