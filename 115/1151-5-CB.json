@@ -702,7 +702,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "商學進修三學位學程甲班",
-            "scr_period": "(四)11-13 商308",
+            "scr_period": "(四)11-13 商308 林孟玲",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -712,7 +712,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林孟玲",
             "scr_date": "全學期"
         },
         {
@@ -794,7 +794,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學進修三學位學程甲班",
-            "scr_period": "(五)07-09 商514 葉宗軒",
+            "scr_period": "(五)07-09 商514 葉宗軒,陳亭廷",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -804,7 +804,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉宗軒",
+            "scr_teacher": "葉宗軒,陳亭廷",
             "scr_date": "全學期"
         },
         {
@@ -817,7 +817,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學進修三學位學程甲班",
-            "scr_period": "(一)11-13 商204",
+            "scr_period": "(一)11-13 商204 黃元力",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "T12182",
@@ -827,7 +827,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "黃元力",
             "scr_date": "全學期"
         },
         {
@@ -840,7 +840,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "商學進修三學位學程乙班",
-            "scr_period": "(二)11-13 商205",
+            "scr_period": "(二)11-13 商205 吳欣陽",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -850,7 +850,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "吳欣陽",
             "scr_date": "全學期"
         },
         {
@@ -932,7 +932,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學進修三學位學程乙班",
-            "scr_period": "(五)07-09 商514 葉宗軒",
+            "scr_period": "(五)07-09 商514 葉宗軒,陳亭廷",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -942,7 +942,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉宗軒",
+            "scr_teacher": "葉宗軒,陳亭廷",
             "scr_date": "全學期"
         },
         {
@@ -955,7 +955,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學進修三學位學程乙班",
-            "scr_period": "(一)11-13 商204",
+            "scr_period": "(一)11-13 商204 黃元力",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "T12182",
@@ -965,7 +965,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "黃元力",
             "scr_date": "全學期"
         },
         {
