@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 603,
+    "total": 601,
     "items": [
         {
             "scr_selcode": "0044",
@@ -2795,7 +2795,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "纖複四",
-            "scr_period": "(一)11-13 工302",
+            "scr_period": "(一)11-13 工302 柯錦和",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2805,7 +2805,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "柯錦和",
             "scr_date": "全學期"
         },
         {
@@ -6857,29 +6857,6 @@
             "scr_date": "全學期"
         },
         {
-            "scr_selcode": "1839",
-            "sub_id3": "AERO4039",
-            "sub_name": "結構振動學",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "是",
-            "scr_examfn": "是",
-            "scr_exambf": "否",
-            "cls_name": "航太四甲",
-            "scr_period": "(二)06-08 科航206",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4005,
-            "cls_id": "CE13141",
-            "sub_id": "48001",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " ",
-            "scr_date": "全學期"
-        },
-        {
             "scr_selcode": "1840",
             "sub_id3": "AERO4055",
             "sub_name": "無人駕駛飛具簡介與設計",
@@ -7015,29 +6992,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "鍾政淋",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "1839",
-            "sub_id3": "AERO4039",
-            "sub_name": "結構振動學",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "是",
-            "scr_examfn": "是",
-            "scr_exambf": "否",
-            "cls_name": "航太四乙",
-            "scr_period": "(二)06-08 科航206",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4005,
-            "cls_id": "CE13142",
-            "sub_id": "48001",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " ",
             "scr_date": "全學期"
         },
         {
